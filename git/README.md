@@ -2,6 +2,9 @@
 
 Treinamento feito no dia 22/05/2019
 
+## O que é uma branch 
+ É uma cópia do código derivado de um certo ponto, é utilizado para a aplicação de mudanças no código.
+
 ### Como criar uma branch?
 
 Para criar uma branch basta digitar o comando a seguir:
