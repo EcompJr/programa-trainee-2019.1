@@ -2,7 +2,9 @@
 
 Treinamento feito no dia 22/05/2019
 
-## O que é um commit
+## O que é um commit?
+
+O commit é feito quando alguma alteração no código é realizada, ele salva o arquivo modificado no repositório local, criando um histórico dos arquivos modificados, esperando somente para ser salvo no repositoio online. 
 
 O commit é um comando que atualiza o repositório com as novas mudanças feitas no código fonte.
 
